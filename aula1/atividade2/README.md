@@ -1,8 +1,8 @@
-# Operating Systems and Computer Networks
+# Operating Systems and Computer Networks - Aula 1
 
-## Atividade 2 — Roteamento entre LANs (Camada 3)
+# Atividade 2 — Roteamento entre LANs (Camada 3)
 
-### Visão Geral
+## Visão Geral
 Configuração de duas redes locais segmentadas (`192.168.1.0/24` e `192.168.2.0/24`) interligadas por um roteador central (Cisco 1941), validando a comunicação de Camada 3 e o papel dos gateways padrão no sistema operacional dos hosts.
 
 ## Tabela de Endereçamento
